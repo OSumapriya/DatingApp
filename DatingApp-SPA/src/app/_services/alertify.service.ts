@@ -5,6 +5,7 @@ declare let alertify: any;
   providedIn: 'root'
 })
 export class AlertifyService {
+  user: any;
 
 
   constructor() { }
